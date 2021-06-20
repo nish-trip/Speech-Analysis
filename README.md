@@ -1,5 +1,5 @@
 # Speech-Analysis
-This project analyses speech which is taken as the output and gives the user's gender and emotion as the output .
+This project analyses speech which is taken as the input and gives the user's gender and emotion as the output .
 
 ## Documentation
 [keras](https://keras.io/) library used for building the neural network.
